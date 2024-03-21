@@ -32,10 +32,10 @@ body::-webkit-scrollbar {
 }
 table {
     border-collapse: separate;
-    border-spacing: 30px; /* Adjust spacing as needed */
+    border-spacing: 10px; /* Adjust spacing as needed */
 }
 th, td {
-    padding-right: 40px; /* Adjust padding as needed */
+    padding-right: 5px; /* Adjust padding as needed */
     
 }
 
