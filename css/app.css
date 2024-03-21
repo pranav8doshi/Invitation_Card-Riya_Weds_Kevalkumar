@@ -30,6 +30,14 @@ body::-webkit-scrollbar {
     overflow: hidden;
     border-radius: 50%;
 }
+table {
+    border-collapse: separate;
+    border-spacing: 30px; /* Adjust spacing as needed */
+}
+th, td {
+    padding-right: 40px; /* Adjust padding as needed */
+    
+}
 
 .img-crop>img {
     display: inline;
