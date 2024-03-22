@@ -33,8 +33,11 @@ body::-webkit-scrollbar {
 table {
     border-collapse: separate;
     border-spacing: 10px; /* Adjust spacing as needed */
+    display: flex;
+    justify-content: center;
 }
 th, td {
+
     padding-right: 5px; /* Adjust padding as needed */
     
 }
